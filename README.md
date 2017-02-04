@@ -2,4 +2,4 @@
 
 # kogger
 
-Well, it's a pretty ugly Java keylogger for academic use only. Do not use in real life, okay :) ?.
+Well, it's a pretty ugly Java implementation of keylogger for academic use only. Do not use in real life, okay :) ?.
